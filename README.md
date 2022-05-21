@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://github.com/comendrun/Single-Price-Grid-Component)]
+- Live Site URL: [[Add live site URL here](https://comendrun.github.io/Single-Price-Grid-Component/)]
 
 ## My process
 
